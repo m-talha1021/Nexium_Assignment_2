@@ -6,7 +6,6 @@ This is a simple Blog Summariser built for Nexium Assignment 2. It allows users 
 
 - Paste your blog/article
 - Click “Summarise”
-- Get a quick summary (first 2 sentences)
 
  🚀 Technologies Used
 
